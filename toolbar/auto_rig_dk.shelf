@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelfDocument>
+  <!-- This file contains definitions of shelves, toolbars, and tools.
+ It should not be hand-edited when it is being used by the application.
+ Note, that two definitions of the same element are not allowed in
+ a single file. -->
+
+  <toolshelf name="auto_rig_dk" label="auto_rig_dk">
+    <memberTool name="reload"/>
+    <memberTool name="make_curve"/>
+    <memberTool name="geometry"/>
+    <memberTool name="character_placer"/>
+    <memberTool name="null"/>
+    <memberTool name="single"/>
+    <memberTool name="spine"/>
+    <memberTool name="leg"/>
+    <memberTool name="flexor"/>
+    <memberTool name="muscle"/>
+    <memberTool name="build"/>
+  </toolshelf>
+
+  <tool name="reload" label="Reload" icon="SOP_foreach">
+    <script scriptType="python"><![CDATA[import sys
+sys.path.append("/home/dkurejwowski/Desktop/master_hou_rig/hou_rig/")
+sys.path.append("/home/dkurejwowski/Desktop/master_hou_rig/")
+
+import hou_rig
+#reload(hou_rig)
+
+print hou_rig.__path__[0]
+print "****"
+hou_rig.rel_modules(hou_rig.__path__[0], "hou_rig")
+print "\n"*5]]></script>
+  </tool>
+
+  <tool name="make_curve" label="make_curve" icon="SOP_curve">
+    <script scriptType="python"><![CDATA[from hou_rig import line_maker
+
+name = "guide_curve"
+centers = hou.selectedNodes()
+if len(centers) <=0:
+        print "Please select 3 or more nodes"
+else:
+        parent = centers[0]
+        line_maker.create_line(name, centers)]]></script>
+  </tool>
+
+  <tool name="geometry" label="Geometry" icon="SOP_clothcapture">
+    <script scriptType="python"><![CDATA[from hou_rig import guide_limb
+geo = guide_limb.limb(limb_type="geometry")
+geo.geometry()]]></script>
+  </tool>
+
+  <tool name="character_placer" label="character_placer" icon="OBJ_character_placer">
+    <script scriptType="python"><![CDATA[from hou_rig import guide_limb
+guide_limb.character_placer()]]></script>
+  </tool>
+
+  <tool name="null" label="Null" icon="OBJ_null">
+    <script scriptType="python"><![CDATA[from hou_rig import guide_limb
+if len(hou.selectedNodes()) == 0 or hou.selectedNodes()[0].type().nameComponents()[2 ]== "subnet":
+    hou.ui.displayMessage("Make sure you are selecting a valid Hook")
+else:    
+    limb = guide_limb.limb(hook = hou.selectedNodes()[0], limb_type = "null")
+    limb.null()]]></script>
+  </tool>
+
+  <tool name="single" label="single" icon="OBJ_bone">
+    <script scriptType="python"><![CDATA[from hou_rig import guide_limb
+if len(hou.selectedNodes()) == 0 or hou.selectedNodes()[0].type().nameComponents()[2 ]== "subnet":
+    hou.ui.displayMessage("Make sure you are selecting a valid Hook")
+else:    
+    limb = guide_limb.limb(hook = hou.selectedNodes()[0], limb_type = "single")
+    limb.single()]]></script>
+  </tool>
+
+  <tool name="spine" label="spine" icon="OBJ_autorig_spine">
+    <script scriptType="python"><![CDATA[from hou_rig import guide_limb
+limb = guide_limb.limb(hook = hou.selectedNodes()[0], limb_type = "spine")
+limb.spine()]]></script>
+  </tool>
+
+  <tool name="leg" label="leg" icon="OBJ_autorig_leg">
+    <script scriptType="python"><![CDATA[from hou_rig import guide_limb
+limb = guide_limb.limb(hook = hou.selectedNodes()[0], limb_type = "leg")
+limb.leg()]]></script>
+  </tool>
+
+  <tool name="build" label="Build" icon="SHELF_create_rig">
+    <script scriptType="python"><![CDATA[from hou_rig.construction.builder import build_stuff
+build_stuff()]]></script>
+  </tool>
+
+  <tool name="flexor" label="Flexor" icon="CHOP_spring">
+    <script scriptType="python"><![CDATA[from hou_rig import guide_limb
+if len(hou.selectedNodes()) == 0 or hou.selectedNodes()[0].type().nameComponents()[2]== "subnet":
+    hou.ui.displayMessage("Make sure you are selecting a valid Hook")
+else:    
+    limb = guide_limb.limb(hook = hou.selectedNodes()[0], limb_type = "flexor")
+    limb.flexor()]]></script>
+  </tool>
+
+  <tool name="muscle" label="muscle" icon="OBJ_muscle">
+    <script scriptType="python"><![CDATA[from hou_rig import guide_limb
+if len(hou.selectedNodes())==2:
+    limb = guide_limb.limb(hook = hou.selectedNodes()[0], second_hook= hou.selectedNodes()[1], limb_type = "muscle")
+elif len(hou.selectedNodes())==1:
+    limb = guide_limb.limb(hook = hou.selectedNodes()[0], second_hook= hou.selectedNodes()[0], limb_type = "muscle")
+elif len(hou.selectedNodes())==0: 
+    limb = guide_limb.limb(limb_type = "muscle")
+else:
+    print "you can only have selected 2, 1 or zero nodes to be able to drop a muscle pre rig"
+limb.muscle()]]></script>
+  </tool>
+</shelfDocument>

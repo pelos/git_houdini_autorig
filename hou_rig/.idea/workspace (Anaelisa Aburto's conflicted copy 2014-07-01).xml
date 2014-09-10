@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ef65bd1-36bd-4f92-8991-7366cbd42100" name="Default" comment="we need to make sure if the folder UI doesnt exist create one from scratch">
+      <change type="DELETED" beforePath="C:\PC_Files\Dropbox\master_hou_rig\backup\master_hou_rig28_1_2014.rar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../toolbar/auto_rig_dk.shelf" afterPath="$PROJECT_DIR$/../toolbar/auto_rig_dk.shelf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/construction/builder.py" afterPath="$PROJECT_DIR$/construction/builder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../desktop.ini" afterPath="$PROJECT_DIR$/../desktop.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/dk.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/dk.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guide_limb.py" afterPath="$PROJECT_DIR$/guide_limb.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/hou_rig.iml" afterPath="$PROJECT_DIR$/.idea/hou_rig.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/construction/parts/muscle.py" afterPath="$PROJECT_DIR$/construction/parts/muscle.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/construction/parts/single.py" afterPath="$PROJECT_DIR$/construction/parts/single.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/construction/parts/spine.py" afterPath="$PROJECT_DIR$/construction/parts/spine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils.py" afterPath="$PROJECT_DIR$/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="hou_rig.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hou_rig$test.coverage" NAME="test Coverage Results" MODIFIED="1397376967022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hou_rig" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="builder.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/construction/builder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4511173" vertical-offset="272" max-vertical-offset="2176">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="38" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="demian" />
+      </list>
+    </option>
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/my_path_cv.py" />
+        <option value="$PROJECT_DIR$/construction/parts/null.py" />
+        <option value="$PROJECT_DIR$/line_maker.py" />
+        <option value="$PROJECT_DIR$/globals.py" />
+        <option value="$PROJECT_DIR$/construction/parts/character_placer.py" />
+        <option value="$PROJECT_DIR$/global_variables.py" />
+        <option value="$PROJECT_DIR$/construction/parts/master.py" />
+        <option value="$PROJECT_DIR$/construction/parts/spine.py" />
+        <option value="$PROJECT_DIR$/construction/parts/geometry.py" />
+        <option value="$PROJECT_DIR$/construction/parts/single.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/construction/parts/flexor.py" />
+        <option value="$PROJECT_DIR$/guide_limb.py" />
+        <option value="$PROJECT_DIR$/construction/parts/muscle.py" />
+        <option value="$PROJECT_DIR$/construction/builder.py" />
+        <option value="$PROJECT_DIR$/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hou_rig" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="271" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="289" />
+    <property name="options.splitter.main.proportions" value="0.16804408" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../scripts" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="296" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="968" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="975" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="288" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="282" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="TODO_SCOPE" value="All" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="hou_rig" sdk-home="C:\Program Files\Side Effects Software\Houdini 13.0.401\python27\python2.7.exe">
+        <option name="mySdkHome" value="C:\Program Files\Side Effects Software\Houdini 13.0.401\python27\python2.7.exe" />
+        <option name="myModuleName" value="hou_rig" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PC_Files\Dropbox\master_hou_rig\hou_rig" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python26/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hou_rig" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hou_rig" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hou_rig" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hou_rig" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hou_rig" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hou_rig" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hou_rig" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hou_rig" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ef65bd1-36bd-4f92-8991-7366cbd42100" name="Default" comment="" />
+      <created>1383881794817</created>
+      <updated>1383881794817</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commiting the directory for the first time.">
+      <created>1390969964965</created>
+      <updated>1390969964965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added the method to hide folders or parameters">
+      <created>1390979825473</created>
+      <updated>1390979825473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implemented the method of uitils to hide the parameters of transform and subnet on the rig subnet.&#10;&#10;reacomodate the for loop to order the nodes, trying to put character placer on the front but doesnt work (doesnt put it as the first folder on the UI)">
+      <created>1390980006674</created>
+      <updated>1390980006674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implemented the method for colorize_the_object,  colorize the nodes of a list of objects, that way we can color the chain acording to what side of the right the item is.">
+      <created>1390980070158</created>
+      <updated>1390980070158</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added the colorize_the_object to change the color of the offset in the viewport">
+      <created>1390980115800</created>
+      <updated>1390980115800</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zero out the hooks&#10;&#10;created the method to colorize_a_node, to change the color of a node, a bone or a null in the viewport&#10;">
+      <created>1390980214225</created>
+      <updated>1390980214225</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changing the color of the hook node to mach the hook color of the rest of the classes">
+      <created>1391071057311</created>
+      <updated>1391071057311</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updating it, and making todo notes&#10;&#10;">
+      <created>1391074009424</created>
+      <updated>1391074009424</updated>
+    </task>
+    <task id="LOCAL-00009" summary="arrenge the space between lines.&#10;&#10;">
+      <created>1391074040487</created>
+      <updated>1391074040487</updated>
+    </task>
+    <task id="LOCAL-00010" summary="remove the self.create_nodes methods and use the internals ones instead, &#10;added a new offset_chain null to have an offset just in case.&#10;">
+      <created>1391074095793</created>
+      <updated>1391074095793</updated>
+    </task>
+    <task id="LOCAL-00011" summary="bunch of things.">
+      <created>1391074118703</created>
+      <updated>1391074118703</updated>
+    </task>
+    <task id="LOCAL-00012" summary="zero out the hookschange that now instead of telling what type of parmTemplate is getting  we are using a try.">
+      <created>1391244301134</created>
+      <updated>1391244301134</updated>
+    </task>
+    <task id="LOCAL-00013" summary="zero out the hooks the null doesnt display IK,  now is multy parents.&#10;and the ik tab is not lock pointing to the character placer.">
+      <created>1391244340718</created>
+      <updated>1391244340719</updated>
+    </task>
+    <task id="LOCAL-00014" summary="promoted the parameters to the UI.&#10;&#10;">
+      <created>1391244364878</created>
+      <updated>1391244364878</updated>
+    </task>
+    <task id="LOCAL-00015" summary="promoted parameters to the UI.">
+      <created>1391244387733</created>
+      <updated>1391244387733</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed the method for promoting parameters to the UI.">
+      <created>1391244411492</created>
+      <updated>1391244411492</updated>
+    </task>
+    <task id="LOCAL-00017" summary="initial commit">
+      <created>1391244426426</created>
+      <updated>1391244426426</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fixed the hook path strings for the IKs methods.&#10;&#10;">
+      <created>1391503925094</created>
+      <updated>1391503925094</updated>
+    </task>
+    <task id="LOCAL-00019" summary="can we delete one of the function that looks like we dont use any more.&#10;&#10;">
+      <created>1391503962291</created>
+      <updated>1391503962291</updated>
+    </task>
+    <task id="LOCAL-00020" summary="updated the methods, (some of them needed to call a variable into, instead using selfs)&#10;&#10;">
+      <created>1391504006097</created>
+      <updated>1391504006097</updated>
+    </task>
+    <task id="LOCAL-00021" summary="updated the UI of the null, to not use IK drop down menu, instead, multi parm.&#10;&#10;">
+      <created>1391504072341</created>
+      <updated>1391504072341</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added a todo, instead passing one parameter to promote, pass a list, so we can use the joint with next parm.">
+      <created>1391504120276</created>
+      <updated>1391504120276</updated>
+    </task>
+    <task id="LOCAL-00023" summary="todo if the parameter name exist, add a number at the end till it can make it, &#10;while:&#10;    try to make the name&#10;">
+      <created>1391505656082</created>
+      <updated>1391505656082</updated>
+    </task>
+    <task id="LOCAL-00024" summary=".">
+      <created>1392083082703</created>
+      <updated>1392083082703</updated>
+    </task>
+    <task id="LOCAL-00025" summary=".">
+      <created>1392083093645</created>
+      <updated>1392083093645</updated>
+    </task>
+    <task id="LOCAL-00026" summary=".">
+      <created>1392083102421</created>
+      <updated>1392083102421</updated>
+    </task>
+    <task id="LOCAL-00027" summary=".">
+      <created>1392083113439</created>
+      <updated>1392083113439</updated>
+    </task>
+    <task id="LOCAL-00028" summary=".">
+      <created>1392083119881</created>
+      <updated>1392083119881</updated>
+    </task>
+    <task id="LOCAL-00029" summary="when promoting the blend shapes,  by pass off">
+      <created>1392083879215</created>
+      <updated>1392083879215</updated>
+    </task>
+    <task id="LOCAL-00030" summary="now promoting parameters can override the min and maximum values">
+      <created>1392087676957</created>
+      <updated>1392087676957</updated>
+    </task>
+    <task id="LOCAL-00031" summary="changing the label of the blend promoted parms, so the ui looks nice with out the clutter and the &quot;_&quot;">
+      <created>1392088191290</created>
+      <updated>1392088191290</updated>
+    </task>
+    <task id="LOCAL-00032" summary="made all the input variables of the functions lower case&#10;ex:&#10;insertBefore&#10;as&#10;insert_before">
+      <created>1392107503135</created>
+      <updated>1392107503135</updated>
+    </task>
+    <task id="LOCAL-00033" summary="deleting  one line">
+      <created>1392111980473</created>
+      <updated>1392111980473</updated>
+    </task>
+    <task id="LOCAL-00034" summary="deleting empty lines">
+      <created>1392112005552</created>
+      <updated>1392112005552</updated>
+    </task>
+    <task id="LOCAL-00035" summary="renaming of a method that propagated along the classes">
+      <created>1392112029340</created>
+      <updated>1392112029340</updated>
+    </task>
+    <task id="LOCAL-00036" summary="renaming of a method that propagated along the classes&#10;and modified the parameters tuple to promote the parms to the ui.">
+      <created>1392112058887</created>
+      <updated>1392112058887</updated>
+    </task>
+    <task id="LOCAL-00037" summary="empty lines, and something else.">
+      <created>1392112089580</created>
+      <updated>1392112089580</updated>
+    </task>
+    <task id="LOCAL-00038" summary="renaming the methods,  moving empty lines, &#10;and making sure the method to promote a list of parameters works with a proper label.">
+      <created>1392112124268</created>
+      <updated>1392112124268</updated>
+    </task>
+    <task id="LOCAL-00039" summary="moved the promote list of objects from master, to utils.">
+      <created>1392188144686</created>
+      <updated>1392188144686</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fixed the list_of_parms_to_promote_to_ui to work now that we move it to master">
+      <created>1392188218087</created>
+      <updated>1392188218087</updated>
+    </task>
+    <task id="LOCAL-00041" summary="fixed the list_of_parms_to_promote_to_ui to work now that we move it to master">
+      <created>1392188232674</created>
+      <updated>1392188232674</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fixed the list_of_parms_to_promote_to_ui to work now that we move it to master&#10;&#10;moved the list_of_parms_to_promote_to_ui to utils.">
+      <created>1392188262033</created>
+      <updated>1392188262033</updated>
+    </task>
+    <task id="LOCAL-00043" summary="removed the todo, hook is color  black now">
+      <created>1392264805676</created>
+      <updated>1392264805676</updated>
+    </task>
+    <task id="LOCAL-00044" summary="removed some todos.">
+      <created>1392265094987</created>
+      <updated>1392265094987</updated>
+    </task>
+    <task id="LOCAL-00045" summary="corrected the ik_multi_parm_list, &#10;i was converting the parm to string in here.  and should have been done in other method, &#10;was  conflicting with master, since master was returning parms&#10;&#10;(keep consistenci  if the list was exporting parms,  or str)">
+      <created>1392266564863</created>
+      <updated>1392266564863</updated>
+    </task>
+    <task id="LOCAL-00046" summary="the null only promote the information of normal, or if is using IK, &#10;">
+      <created>1392535089386</created>
+      <updated>1392535089386</updated>
+    </task>
+    <task id="LOCAL-00047" summary="some stuff.">
+      <created>1392535214135</created>
+      <updated>1392535214135</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fixed the straight curve parm to actually reflect the straight curve.">
+      <created>1392792809408</created>
+      <updated>1392792809408</updated>
+    </task>
+    <task id="LOCAL-00049" summary="creating the funtions for flexor,  first round.">
+      <created>1393046444751</created>
+      <updated>1393046444751</updated>
+    </task>
+    <task id="LOCAL-00050" summary="arrenging the code.">
+      <created>1393046464270</created>
+      <updated>1393046464270</updated>
+    </task>
+    <task id="LOCAL-00051" summary="arrenging the code.">
+      <created>1393046478625</created>
+      <updated>1393046478625</updated>
+    </task>
+    <task id="LOCAL-00052" summary="def hooking was broken into smaller functions.&#10;created the flexor def.">
+      <created>1393053464148</created>
+      <updated>1393053464148</updated>
+    </task>
+    <task id="LOCAL-00053" summary="now also accept pathcv">
+      <created>1393057077530</created>
+      <updated>1393057077530</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fixed the guide_limb single method to use properly the make guide curve">
+      <created>1393149445194</created>
+      <updated>1393149445194</updated>
+    </task>
+    <task id="LOCAL-00055" summary="fixed the promoted parameters and the display of the nulls depending if its regular null  or multi IK.">
+      <created>1393215893739</created>
+      <updated>1393215893739</updated>
+    </task>
+    <task id="LOCAL-00056" summary="added a todo,  make sure that each pathcg have a parent if not use hook as parent.">
+      <created>1393229014615</created>
+      <updated>1393229014616</updated>
+    </task>
+    <task id="LOCAL-00057" summary="removed a todo about promoting the bone lenght.">
+      <created>1393229045410</created>
+      <updated>1393229045410</updated>
+    </task>
+    <task id="LOCAL-00058" summary="fixed the null that was giving errors do to promoting with regular or with multi parent.">
+      <created>1393229098055</created>
+      <updated>1393229098055</updated>
+    </task>
+    <task id="LOCAL-00059" summary="remove the bone lenght from bone from the promoted parms to the ui.">
+      <created>1393229121309</created>
+      <updated>1393229121309</updated>
+    </task>
+    <task id="LOCAL-00060" summary="splited self.hooked in smaller methods">
+      <created>1393666470224</created>
+      <updated>1393666470224</updated>
+    </task>
+    <task id="LOCAL-00061" summary=".">
+      <created>1393666488572</created>
+      <updated>1393666488572</updated>
+    </task>
+    <task id="LOCAL-00062" summary="removed the lenght parameter from the promoted list of parms">
+      <created>1393666525846</created>
+      <updated>1393666525846</updated>
+    </task>
+    <task id="LOCAL-00063" summary=".">
+      <created>1393666537568</created>
+      <updated>1393666537568</updated>
+    </task>
+    <task id="LOCAL-00064" summary="fixed self.limb_subnet as variable for self.create_rig_node">
+      <created>1393666567523</created>
+      <updated>1393666567523</updated>
+    </task>
+    <task id="LOCAL-00065" summary="fixed hook_path">
+      <created>1393666603533</created>
+      <updated>1393666603533</updated>
+    </task>
+    <task id="LOCAL-00066" summary="converting tabs to spaces.">
+      <created>1393760251079</created>
+      <updated>1393760251079</updated>
+    </task>
+    <task id="LOCAL-00067" summary="reformat file.">
+      <created>1393760305501</created>
+      <updated>1393760305501</updated>
+    </task>
+    <task id="LOCAL-00068" summary="instead finding what to merge with if and else, user must provide the name of the node to merge">
+      <created>1393813967463</created>
+      <updated>1393813967463</updated>
+    </task>
+    <task id="LOCAL-00069" summary="initial commit,  &#10;creating nodes inside.">
+      <created>1393813984656</created>
+      <updated>1393813984656</updated>
+    </task>
+    <task id="LOCAL-00070" summary="set up the internal network">
+      <created>1393818803286</created>
+      <updated>1393818803286</updated>
+    </task>
+    <task id="LOCAL-00071" summary="fixed the run_toon_curves as the master method. that can be dismantle into smaller method.&#10;added some todos.&#10;remove the colorize bones,  if we want we can use the method in master class.">
+      <created>1393836939337</created>
+      <updated>1393836939337</updated>
+    </task>
+    <task id="LOCAL-00072" summary="reformat the file, and removed blank spaces.">
+      <created>1393837002553</created>
+      <updated>1393837002553</updated>
+    </task>
+    <task id="LOCAL-00073" summary="created the prep_toon_curve,  probably need to rename since at the end its the methodm, for making the hole toon bones.">
+      <created>1393837065908</created>
+      <updated>1393837065908</updated>
+    </task>
+    <task id="LOCAL-00074" summary="make sure the prep_toon_curve dont use the last bone of the chain.">
+      <created>1393837089607</created>
+      <updated>1393837089607</updated>
+    </task>
+    <task id="LOCAL-00075" summary="created the My_path_cv class to create our own path_CV">
+      <created>1393837120157</created>
+      <updated>1393837120157</updated>
+    </task>
+    <task id="LOCAL-00076" summary="reformatted the file and removed blank spaces.">
+      <created>1393837172690</created>
+      <updated>1393837172690</updated>
+    </task>
+    <task id="LOCAL-00077" summary="cleaned some spaces and unuse code that was commented.">
+      <created>1393837259061</created>
+      <updated>1393837259061</updated>
+    </task>
+    <task id="LOCAL-00078" summary="if not using in_this_folder  then none, that way the before or after can kick in. in the promote method">
+      <created>1393921440467</created>
+      <updated>1393921440468</updated>
+    </task>
+    <task id="LOCAL-00079" summary="change the default of max streatchy to 5 from 1, and fixed the toon_curve in the toon_curve method to create a curve with import normals.">
+      <created>1393921510286</created>
+      <updated>1393921510286</updated>
+    </task>
+    <task id="LOCAL-00080" summary="added the method of import normals to use with create toon curve">
+      <created>1393921543105</created>
+      <updated>1393921543105</updated>
+    </task>
+    <task id="LOCAL-00081" summary="added the self.toon_curve before destro last bone.">
+      <created>1393921567942</created>
+      <updated>1393921567942</updated>
+    </task>
+    <task id="LOCAL-00082" summary="recreated the hide_folder_or_parm_from_ui &#10;since there is a specific method for hiding fodlers and another for parms.">
+      <created>1393991614009</created>
+      <updated>1393991614009</updated>
+    </task>
+    <task id="LOCAL-00083" summary="changing the way that the bone_shape works">
+      <created>1394406646866</created>
+      <updated>1394406646866</updated>
+    </task>
+    <task id="LOCAL-00084" summary="remove a print line to check that was working.">
+      <created>1394406681436</created>
+      <updated>1394406681437</updated>
+    </task>
+    <task id="LOCAL-00085" summary="rearenge the file with spaces.">
+      <created>1394406717909</created>
+      <updated>1394406717909</updated>
+    </task>
+    <task id="LOCAL-00086" summary="fixed the import bone_shape to use the correct angles.">
+      <created>1394406752251</created>
+      <updated>1394406752251</updated>
+    </task>
+    <task id="LOCAL-00087" summary="fixed the method for shape_bone to create tubes along the chains/">
+      <created>1394411441811</created>
+      <updated>1394411441811</updated>
+    </task>
+    <task id="LOCAL-00088" summary="fixed bone angle rotation acording to orientation box,&#10;needed to set the aim to quaternion instead no upvector in th elook at path&#10;fixed import bone_mesh(only needed to rotate -90 in rx)">
+      <created>1394431657480</created>
+      <updated>1394431657480</updated>
+    </task>
+    <task id="LOCAL-00089" summary="rearenge on how to do the bone_shape.">
+      <created>1394431711048</created>
+      <updated>1394431711048</updated>
+    </task>
+    <task id="LOCAL-00090" summary="unlock the shape bone after been copy to the bone.">
+      <created>1394435489627</created>
+      <updated>1394435489627</updated>
+    </task>
+    <task id="LOCAL-00091" summary="some of the code was outside if was using the toon togle.">
+      <created>1394435522419</created>
+      <updated>1394435522419</updated>
+    </task>
+    <task id="LOCAL-00092" summary="i layout children of the vopsop">
+      <created>1394507835815</created>
+      <updated>1394507835815</updated>
+    </task>
+    <task id="LOCAL-00093" summary="addint the option to also promote ramp parms,  (still need to get the defaults from the parm and set it into the new created one)">
+      <created>1394523679539</created>
+      <updated>1394523679539</updated>
+    </task>
+    <task id="LOCAL-00094" summary="promoting the parameters of the curve.">
+      <created>1394523736701</created>
+      <updated>1394523736701</updated>
+    </task>
+    <task id="LOCAL-00095" summary="commenting in a function that we no longer need.">
+      <created>1394523779307</created>
+      <updated>1394523779307</updated>
+    </task>
+    <task id="LOCAL-00096" summary="now the promoted ramp parameter get the values from the original parm.">
+      <created>1394592062149</created>
+      <updated>1394592062149</updated>
+    </task>
+    <task id="LOCAL-00097" summary="fixed spaces. and remove commented lines.">
+      <created>1394592197731</created>
+      <updated>1394592197731</updated>
+    </task>
+    <task id="LOCAL-00098" summary="added the parm dolength that was no set correct. from the resample node">
+      <created>1394685396866</created>
+      <updated>1394685396866</updated>
+    </task>
+    <task id="LOCAL-00099" summary="dont need to use the flexor any more, and we also create a new curve in world space.">
+      <created>1394688870903</created>
+      <updated>1394688870903</updated>
+    </task>
+    <task id="LOCAL-00100" summary="deleting the keyfram of the original curve len in the vopsop that way we dont depent on the time or time shift.">
+      <created>1394697173977</created>
+      <updated>1394697173978</updated>
+    </task>
+    <task id="LOCAL-00101" summary="remove the need of a fetch node, instead we are using a null with a point exp pointing to the point 0 in the curve.&#10;added the point_att_to_parm">
+      <created>1394697233818</created>
+      <updated>1394697233818</updated>
+    </task>
+    <task id="LOCAL-00102" summary="created more list for the center cv and lower and upper cvs, and arrenge the order of the promoted parameters.">
+      <created>1394697299606</created>
+      <updated>1394697299606</updated>
+    </task>
+    <task id="LOCAL-00103" summary="created the togle display nodes function.">
+      <created>1394782851227</created>
+      <updated>1394782851227</updated>
+    </task>
+    <task id="LOCAL-00104" summary="we might promote the display slider or make a togle with a script.">
+      <created>1394786042655</created>
+      <updated>1394786042655</updated>
+    </task>
+    <task id="LOCAL-00105" summary="rename the subnet for the world point positions so we dont get double _ _&#10;added some todos.">
+      <created>1394786099621</created>
+      <updated>1394786099621</updated>
+    </task>
+    <task id="LOCAL-00106" summary="remove some lines that we dont need. from the togle_display_nodes function.">
+      <created>1394786136024</created>
+      <updated>1394786136024</updated>
+    </task>
+    <task id="LOCAL-00107" summary="toon curve, added the promotion of a togle that control the display of the cvs.">
+      <created>1394786177756</created>
+      <updated>1394786177756</updated>
+    </task>
+    <task id="LOCAL-00108" summary="needed to change the method to display nodes, instead using the displayFlag, we are using the parm, becuase that way we dont have to make them editable.">
+      <created>1394788152634</created>
+      <updated>1394788152634</updated>
+    </task>
+    <task id="LOCAL-00109" summary="removed the self from run toon curve and returned the bone list">
+      <created>1394790623903</created>
+      <updated>1394790623904</updated>
+    </task>
+    <task id="LOCAL-00110" summary="promoted view bones parameter">
+      <created>1394790640245</created>
+      <updated>1394790640246</updated>
+    </task>
+    <task id="LOCAL-00111" summary="change the way the we connect the chains, instead parenting one after the other now they are independent and one pointing to another, that way they can move them freely.">
+      <created>1394867191814</created>
+      <updated>1394867191815</updated>
+    </task>
+    <task id="LOCAL-00112" summary="by passes the xform zero so the bone mesh sits properly now that we change the way the chains are connected.">
+      <created>1394867248434</created>
+      <updated>1394867248434</updated>
+    </task>
+    <task id="LOCAL-00113" summary="deleted commented lines, added documentation to run function,  and set argument for the amount of division to default 8">
+      <created>1395125138835</created>
+      <updated>1395125138835</updated>
+    </task>
+    <task id="LOCAL-00114" summary="verification of toon curve is done outside the function">
+      <created>1395132007610</created>
+      <updated>1395132007610</updated>
+    </task>
+    <task id="LOCAL-00115" summary="vrerification of the toon curve, happen outside the function">
+      <created>1395132030144</created>
+      <updated>1395132030144</updated>
+    </task>
+    <task id="LOCAL-00116" summary="init">
+      <created>1395132039802</created>
+      <updated>1395132039802</updated>
+    </task>
+    <task id="LOCAL-00117" summary="adding stuff to the spine secction of the code.">
+      <created>1395132061209</created>
+      <updated>1395132061209</updated>
+    </task>
+    <task id="LOCAL-00118" summary="the tip of the spine now its a sphere since doesnt matter the orientation of it.">
+      <created>1395295824506</created>
+      <updated>1395295824506</updated>
+    </task>
+    <task id="LOCAL-00119" summary="added the option to create simple curve, with out the rest of all the nodes, &#10;in the import normals, now display the out_segs.">
+      <created>1395363884222</created>
+      <updated>1395363884222</updated>
+    </task>
+    <task id="LOCAL-00120" summary="added def change display look">
+      <created>1395368382955</created>
+      <updated>1395368382955</updated>
+    </task>
+    <task id="LOCAL-00121" summary="removed done todos.">
+      <created>1395387333609</created>
+      <updated>1395387333609</updated>
+    </task>
+    <task id="LOCAL-00122" summary="finished the core spine, promoted parameter, created the hook nodes(need to fix the names)">
+      <created>1395387452793</created>
+      <updated>1395387452793</updated>
+    </task>
+    <task id="LOCAL-00123" summary="updated some todos">
+      <created>1395387502582</created>
+      <updated>1395387502582</updated>
+    </task>
+    <task id="LOCAL-00124" summary="the ui, method now can set default on position, and the division_default">
+      <created>1395387590590</created>
+      <updated>1395387590590</updated>
+    </task>
+    <task id="LOCAL-00125" summary="we try to promote the segs parameter after the curve settings, if its a simple curve, just put it at the top.">
+      <created>1395387640102</created>
+      <updated>1395387640102</updated>
+    </task>
+    <task id="LOCAL-00126" summary="added the option to accept string parameters defaults, and&#10;try to set the defaults as tuple if not, try regular way">
+      <created>1395557054675</created>
+      <updated>1395557054676</updated>
+    </task>
+    <task id="LOCAL-00127" summary="spelling and removed one print line.">
+      <created>1395557329719</created>
+      <updated>1395557329719</updated>
+    </task>
+    <task id="LOCAL-00128" summary="arrenged one of the list for list_to_promote_to_ui.">
+      <created>1395557371004</created>
+      <updated>1395557371004</updated>
+    </task>
+    <task id="LOCAL-00129" summary="changed the default of bones on the spine and fixed the hooking on the null method.">
+      <created>1395557417290</created>
+      <updated>1395557417290</updated>
+    </task>
+    <task id="LOCAL-00130" summary="reformat the file.">
+      <created>1395559037463</created>
+      <updated>1395559037465</updated>
+    </task>
+    <task id="LOCAL-00131" summary="parm to ui wont complain if the parm is a separator, since we are doing a while check to use those.">
+      <created>1395638468351</created>
+      <updated>1395638468352</updated>
+    </task>
+    <task id="LOCAL-00132" summary="fixed the hooks an now next limbs are connected properly.">
+      <created>1395731900498</created>
+      <updated>1395731900498</updated>
+    </task>
+    <task id="LOCAL-00133" summary="spline now also can handle a bone_shape.">
+      <created>1395731977405</created>
+      <updated>1395731977405</updated>
+    </task>
+    <task id="LOCAL-00134" summary="hook name is out from the create fetch import&#10;&#10;and removed some unused lines.">
+      <created>1395732028227</created>
+      <updated>1395732028227</updated>
+    </task>
+    <task id="LOCAL-00135" summary="if the folder doesnt exist when putting the parameter in the UI will create it.&#10;fixed the parm name.">
+      <created>1395971882778</created>
+      <updated>1395971882778</updated>
+    </task>
+    <task id="LOCAL-00136" summary="we move the curve import normal method to flexor class.">
+      <created>1395971914101</created>
+      <updated>1395971914101</updated>
+    </task>
+    <task id="LOCAL-00137" summary="we lock the node that we copy to the rig and then unlock it">
+      <created>1395971948716</created>
+      <updated>1395971948716</updated>
+    </task>
+    <task id="LOCAL-00138" summary="implimented the method for bringing the curve and add the necesary nodes to use the normals and arc len for the chain of bone to work correctly.&#10; the hook are connected to the bones so we can use the carve to reduce the length of the curve.">
+      <created>1395972058003</created>
+      <updated>1395972058003</updated>
+    </task>
+    <task id="LOCAL-00139" summary="we commented the colorize_the_object so the bones get the random color for skinning.">
+      <created>1395972099422</created>
+      <updated>1395972099422</updated>
+    </task>
+    <task id="LOCAL-00140" summary="transfer bones, &#10;use flexor">
+      <created>1395972141935</created>
+      <updated>1395972141935</updated>
+    </task>
+    <task id="LOCAL-00141" summary="we now import the curve and we add the necesary nodes for using the normals, and arc len. &#10;such a method to promote the parameters.">
+      <created>1395972183151</created>
+      <updated>1395972183151</updated>
+    </task>
+    <task id="LOCAL-00142" summary="reformat the file.">
+      <created>1395972295976</created>
+      <updated>1395972295976</updated>
+    </task>
+    <task id="LOCAL-00143" summary="init">
+      <created>1396152661171</created>
+      <updated>1396152661171</updated>
+    </task>
+    <task id="LOCAL-00144" summary="we need to make sure if the folder UI doesnt exist create one from scratch">
+      <created>1396331970493</created>
+      <updated>1396331970493</updated>
+    </task>
+    <task id="LOCAL-00145" summary="fetch node is display is off.&#10;added bones to the global variables list">
+      <created>1396332031896</created>
+      <updated>1396332031896</updated>
+    </task>
+    <task id="LOCAL-00146" summary="vizualize is true.&#10;promote the shape paramters uncoment the parms,">
+      <created>1396332083691</created>
+      <updated>1396332083691</updated>
+    </task>
+    <task id="LOCAL-00147" summary="flex now have the method to promote parameters of the s and s vopsop.">
+      <created>1396332127354</created>
+      <updated>1396332127354</updated>
+    </task>
+    <task id="LOCAL-00148" summary="removed some todo list.">
+      <created>1396332151586</created>
+      <updated>1396332151586</updated>
+    </task>
+    <task id="LOCAL-00149" summary="added some todos and created the module.">
+      <created>1396332170169</created>
+      <updated>1396332170169</updated>
+    </task>
+    <task id="LOCAL-00150" summary="we bring the global variables module.">
+      <created>1396332197168</created>
+      <updated>1396332197168</updated>
+    </task>
+    <task id="LOCAL-00151" summary="added the global variables module.">
+      <created>1396332222407</created>
+      <updated>1396332222407</updated>
+    </task>
+    <task id="LOCAL-00152" summary="tabs to spaces.">
+      <created>1396332242763</created>
+      <updated>1396332242763</updated>
+    </task>
+    <task id="LOCAL-00153" summary="printing the class  so we can see the order on how are they been created.">
+      <created>1396332266581</created>
+      <updated>1396332266581</updated>
+    </task>
+    <task id="LOCAL-00154" summary="added nodes to accept muscle deformation.&#10;made a back up of the method.">
+      <created>1396420842239</created>
+      <updated>1396420842239</updated>
+    </task>
+    <task id="LOCAL-00155" summary="removed some todos&#10;also the connect bones to the preview use  a diferent way. use an if instead a try.">
+      <created>1396420900682</created>
+      <updated>1396420900682</updated>
+    </task>
+    <task id="LOCAL-00156" summary="added a print to know thats a null and see the order in how the class list is been generated.">
+      <created>1396420930811</created>
+      <updated>1396420930811</updated>
+    </task>
+    <task id="LOCAL-00157" summary="added a todo,  verify if toon curve outside the method so we only check it once.&#10;remove some empty parms.">
+      <created>1396420973690</created>
+      <updated>1396420973690</updated>
+    </task>
+    <task id="LOCAL-00158" summary="first test setting up the muscle, using a two point muscle.">
+      <created>1396851249028</created>
+      <updated>1396851249028</updated>
+    </task>
+    <task id="LOCAL-00159" summary="initial commit, muscle class with the code.">
+      <created>1398388907399</created>
+      <updated>1398388907399</updated>
+    </task>
+    <task id="LOCAL-00160" summary="added a todo, remove the constants add 1 and subtract -1 form the vopsop in prepare the curve.">
+      <created>1398665740043</created>
+      <updated>1398665740043</updated>
+    </task>
+    <task id="LOCAL-00161" summary="now we copy and move the network from the prerig to the rig node.">
+      <created>1398665775718</created>
+      <updated>1398665775718</updated>
+    </task>
+    <task id="LOCAL-00162" summary="rename the deform_list to bone_deformers_list">
+      <created>1398665807654</created>
+      <updated>1398665807654</updated>
+    </task>
+    <task id="LOCAL-00163" summary="rename the deformer_list to bone_deformers_list">
+      <created>1398665835240</created>
+      <updated>1398665835240</updated>
+    </task>
+    <task id="LOCAL-00164" summary="rename the deformers_list to bone_deformers_list">
+      <created>1398665862654</created>
+      <updated>1398665862654</updated>
+    </task>
+    <task id="LOCAL-00165" summary="rename lists">
+      <created>1398665875907</created>
+      <updated>1398665875907</updated>
+    </task>
+    <task id="LOCAL-00166" summary="put ui in node, now creates a secundary hook, and also can implement python callbacks&#10;&#10;muscle method now accepts a second hook&#10;&#10;muscle now have a chop network to create the SS, still WIP, but is the base work.">
+      <created>1398665964588</created>
+      <updated>1398665964588</updated>
+    </task>
+    <task id="LOCAL-00167" summary=" removed some blank lines&#10;">
+      <created>1398666016059</created>
+      <updated>1398666016059</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34011298" sideWeight="0.6792873" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32768363" sideWeight="0.7646745" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1299435" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27906978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15635005" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1369936" sideWeight="0.8324084" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18569905" sideWeight="0.2863485" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1724138" sideWeight="0.3207127" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29537767" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14621131" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="init" />
+    <MESSAGE value="we need to make sure if the folder UI doesnt exist create one from scratch" />
+    <MESSAGE value="fetch node is display is off.&#10;added bones to the global variables list" />
+    <MESSAGE value="vizualize is true.&#10;promote the shape paramters uncoment the parms," />
+    <MESSAGE value="flex now have the method to promote parameters of the s and s vopsop." />
+    <MESSAGE value="removed some todo list." />
+    <MESSAGE value="added some todos and created the module." />
+    <MESSAGE value="we bring the global variables module." />
+    <MESSAGE value="added the global variables module." />
+    <MESSAGE value="tabs to spaces." />
+    <MESSAGE value="printing the class  so we can see the order on how are they been created." />
+    <MESSAGE value="added nodes to accept muscle deformation.&#10;made a back up of the method." />
+    <MESSAGE value="removed some todos&#10;also the connect bones to the preview use  a diferent way. use an if instead a try." />
+    <MESSAGE value="added a print to know thats a null and see the order in how the class list is been generated." />
+    <MESSAGE value="added a todo,  verify if toon curve outside the method so we only check it once.&#10;remove some empty parms." />
+    <MESSAGE value="first test setting up the muscle, using a two point muscle." />
+    <MESSAGE value="initial commit, muscle class with the code." />
+    <MESSAGE value="added a todo, remove the constants add 1 and subtract -1 form the vopsop in prepare the curve." />
+    <MESSAGE value="now we copy and move the network from the prerig to the rig node." />
+    <MESSAGE value="rename the deform_list to bone_deformers_list" />
+    <MESSAGE value="rename the deformer_list to bone_deformers_list" />
+    <MESSAGE value="rename the deformers_list to bone_deformers_list" />
+    <MESSAGE value="rename lists" />
+    <MESSAGE value="put ui in node, now creates a secundary hook, and also can implement python callbacks&#10;&#10;muscle method now accepts a second hook&#10;&#10;muscle now have a chop network to create the SS, still WIP, but is the base work." />
+    <MESSAGE value=" removed some blank lines&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value=" removed some blank lines&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/construction/builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="2176">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="2176">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2193">
+          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_path_cv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09714286" vertical-offset="0" max-vertical-offset="875">
+          <caret line="6" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/line_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/parts/character_placer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.019428572" vertical-offset="51" max-vertical-offset="1326">
+          <caret line="6" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/parts/geometry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40189126" vertical-offset="0" max-vertical-offset="3944">
+          <caret line="156" column="66" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/parts/null.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2176">
+          <caret line="22" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52668214" vertical-offset="4952" max-vertical-offset="5814">
+          <caret line="318" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/parts/master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15730" max-vertical-offset="19907">
+          <caret line="984" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/parts/flexor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="968" max-vertical-offset="9894">
+          <caret line="83" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/parts/spine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4233">
+          <caret line="9" column="100" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global_variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guide_limb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29142857" vertical-offset="0" max-vertical-offset="6443">
+          <caret line="15" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/parts/single.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <caret line="25" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/parts/muscle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.78136647" vertical-offset="765" max-vertical-offset="3621">
+          <caret line="11" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45048815" vertical-offset="0" max-vertical-offset="717">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construction/builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4511173" vertical-offset="272" max-vertical-offset="2176">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="38" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
